@@ -1,2 +1,2 @@
-# Electric_Vehicle_Price_Prediction
-Electric Vehicle Price Prediction
+# Electric Vehicle Price Prediction
+Project By Innomatics Research Labs
